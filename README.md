@@ -26,5 +26,5 @@ TODO:
 - [ ] some other things aswell, need to fix the combobox background n shit
 
 
-> Release:
+> ! for compiled version go into "Release" :)
 
