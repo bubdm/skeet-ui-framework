@@ -255,6 +255,18 @@ namespace SkeetFramework
             TB.Width = Width - 10;
 
             TB.Cursor = Cursors.IBeam;
+            
+             if (_Multiline)
+            {
+                TB.Height = Height - 11;
+            }
+            else
+            {
+                Height = TB.Height + 11;
+            }
+
+            TB.TextChanged += OnBaseTextChanged;
+            TB.KeyDown += OnBaseKeyDown;
 
         }
         public Color ColorTop { get; set; } = Color.FromArgb(23, 23, 23);
