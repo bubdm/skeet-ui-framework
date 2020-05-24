@@ -27,7 +27,3 @@ TODO:
 - [ ] Progress Bar
 - [ ] Radio Button
 - [ ] some other things aswell, need to fix the combobox background n shit
-
-
-> ! for compiled version go into "Release" :)
-
