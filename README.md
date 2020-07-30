@@ -1,29 +1,9 @@
-# C# SKEET UI FRAMEWORK :]
+# info / instructions
+- add all the .cs files into ur project, and compile.
+- you should see the controls in ur toolbox.
 
-> [8/24/19] [RELEASE] first upload, as of now there are only 7 Controls: Background, Combobox, Textbox, Toggle, Slider, 
-Button, and Group Box.
+this project is and old project im just updating the readme, there will be no more updates.
 
->[8/25/19] fixed textbox bug.
+# preview
+![preview](https://i.imgur.com/aXk9Qus.png)
 
-
-> Current Picture [8/24/19]:
-
-
-![test](https://i.imgur.com/aXk9Qus.png)
-
-
-TODO:
-
-- [x] Background
-- [x] Combobox
-- [x] Textbox
-- [x] Toggle
-- [x] Slider
-- [x] Button
-- [x] Group Box
-- [ ] Tab Control
-- [ ] Custom Label
-- [ ] Listbox
-- [ ] Progress Bar
-- [ ] Radio Button
-- [ ] some other things aswell, need to fix the combobox background n shit
